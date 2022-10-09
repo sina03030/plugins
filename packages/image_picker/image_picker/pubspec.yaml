@@ -25,7 +25,7 @@ dependencies:
   image_picker_android: 
     git:
       url: https://github.com/sina03030/plugins.git
-      path: packages/image_picker/image_picker/image_picker_android/
+      path: packages/image_picker/image_picker_android/
   image_picker_for_web: ^2.1.0
   image_picker_ios: ^0.8.6+1
   image_picker_platform_interface: ^2.6.1
